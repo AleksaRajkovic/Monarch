@@ -1,0 +1,10 @@
+in/{text} (for input of one line messages)
+rff/{path to file}(for input of messages with newlines(\n),has to be in a file)
+enc/(encrypt)
+dec/(decrypt)
+oprint/(prints out the message manually)
+wtf/(writes to file in output dir(found in settings))
+cls or clear (clear console)
+com/(prints out this file)
+
+ 

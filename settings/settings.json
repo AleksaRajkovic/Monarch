@@ -1,0 +1,5 @@
+{
+    "cli":true,
+    "hash":true,
+    "hash_type" : "SHA3_256"
+    }
