@@ -1,2 +1,2 @@
 # Monarch
-Monrach is a simple program for text encryption
+Monarch is a simple program for text encryption
